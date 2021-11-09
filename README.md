@@ -26,3 +26,19 @@ Template : https://themewagon.com/themes/free-bootstrap-5-html-5-admin-dashboard
 <h2>Halaman Histori Pembelian Produk</h2>
 
 ![Histori Pembelian](https://user-images.githubusercontent.com/65702027/140842080-4b119159-45a8-43fb-938a-1e3f89fdd80f.png)
+
+<br>
+<h2>Halaman Tampil Produk</h2>
+
+![Tampil Produk](https://user-images.githubusercontent.com/65702027/140842403-cf1ad69e-3768-4691-9b4e-9559033097be.png)
+
+<br>
+<h2>Halaman Tambah Produk</h2>
+
+![Tambah Produk](https://user-images.githubusercontent.com/65702027/140842444-67902cd0-ece8-4dc6-99e1-54f522f4a93e.png)
+
+<br>
+<h2>Halaman Edit Produk</h2>
+
+![Edit Produk](https://user-images.githubusercontent.com/65702027/140842413-e043bb1b-3296-4672-9237-ebb30afbeaf4.png)
+
