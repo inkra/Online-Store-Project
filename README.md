@@ -1,5 +1,5 @@
-# Online-Store-Project
-<h3>CRUD PHP dengan MySQL</h3>
+# Online Store Project
+<h3>CRUD PHP dengan MySQL- Admin Dashboard</h3>
 
 Template : https://themewagon.com/themes/free-bootstrap-5-html-5-admin-dashboard-template-soft-ui/
 <br><br>
