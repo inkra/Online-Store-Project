@@ -42,3 +42,20 @@ Template : https://themewagon.com/themes/free-bootstrap-5-html-5-admin-dashboard
 
 ![Edit Produk](https://user-images.githubusercontent.com/65702027/140842413-e043bb1b-3296-4672-9237-ebb30afbeaf4.png)
 
+<br>
+<h2>Halaman Tampil Pelanggan</h2>
+
+<br>
+<h2>Halaman Tambah Pelanggan</h2>
+
+<br>
+<h2>Halaman Edit Pelanggan</h2>
+
+<br>
+<h2>Halaman Tampil Petugas</h2>
+
+<br>
+<h2>Halaman Tambah Petugas</h2>
+
+<br>
+<h2>Halaman Edit Petugas</h2>
