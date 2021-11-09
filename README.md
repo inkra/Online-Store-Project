@@ -19,3 +19,10 @@ Template : https://themewagon.com/themes/free-bootstrap-5-html-5-admin-dashboard
 
 <br>
 <h2>Halaman Keranjang Pembelian</h2>
+
+![Keranjang](https://user-images.githubusercontent.com/65702027/140842064-4242a28e-fbf4-4aaf-a043-5102809e2c2d.png)
+
+<br>
+<h2>Halaman Histori Pembelian Produk</h2>
+
+![Histori Pembelian](https://user-images.githubusercontent.com/65702027/140842080-4b119159-45a8-43fb-938a-1e3f89fdd80f.png)
