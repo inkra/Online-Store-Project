@@ -12,7 +12,10 @@ Template : https://themewagon.com/themes/free-bootstrap-5-html-5-admin-dashboard
 
 ![Dashboard](https://user-images.githubusercontent.com/65702027/140841385-b43ddcfb-52bc-4436-a229-07b2cd138a7f.png)
 
-
+<br>
 <h2>Halaman Pembelian Produk</h2>
 
-m
+![Beli Produk](https://user-images.githubusercontent.com/65702027/140841933-b0f28de4-eeb5-408f-b7c4-4099fa87df89.png)
+
+<br>
+<h2>Halaman Keranjang Pembelian</h2>
