@@ -45,17 +45,32 @@ Template : https://themewagon.com/themes/free-bootstrap-5-html-5-admin-dashboard
 <br>
 <h2>Halaman Tampil Pelanggan</h2>
 
+![Tampil Pelanggan](https://user-images.githubusercontent.com/65702027/140843704-b84b5a5f-c5f3-4b03-be1e-883a9147a77b.png)
+
 <br>
 <h2>Halaman Tambah Pelanggan</h2>
+
+![Tambah Pelanggan](https://user-images.githubusercontent.com/65702027/140843715-b090956e-d685-45ea-ab0d-554e3b326874.png)
 
 <br>
 <h2>Halaman Edit Pelanggan</h2>
 
+![Ubah Pelanggan](https://user-images.githubusercontent.com/65702027/140843725-f29a066f-e65c-4448-85dd-98957d5487f3.png)
+
 <br>
 <h2>Halaman Tampil Petugas</h2>
+
+![Tampil Petugas](https://user-images.githubusercontent.com/65702027/140843735-1f612fb6-d5da-4a24-ae1b-5a3118fd31fc.png)
 
 <br>
 <h2>Halaman Tambah Petugas</h2>
 
+![Tambah Petugas](https://user-images.githubusercontent.com/65702027/140843775-eaa04bd9-0abe-4327-bd02-a2579dc49082.png)
+
 <br>
 <h2>Halaman Edit Petugas</h2>
+
+![Ubah Petugas](https://user-images.githubusercontent.com/65702027/140843785-788bd253-4e95-4e75-bc52-2a10a348c325.png)
+
+
+
